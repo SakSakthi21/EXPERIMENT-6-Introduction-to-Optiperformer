@@ -80,12 +80,13 @@ The system includes:
 
 *(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
 
-<img width="1919" height="1079" alt="Screenshot 2026-04-18 133517" src="https://github.com/user-attachments/assets/d8014a8f-1959-476f-b30c-7fe123691ba5" />
-<img width="1919" height="1079" alt="Screenshot 2026-04-18 133547" src="https://github.com/user-attachments/assets/a4a71615-9acc-41f6-b5ab-f5708b9531d2" />
-<img width="1919" height="1079" alt="Screenshot 2026-04-18 133614" src="https://github.com/user-attachments/assets/b77a1aaf-a397-4693-8db8-6965ad10540b" />
-<img width="1919" height="1079" alt="Screenshot 2026-04-18 133635" src="https://github.com/user-attachments/assets/66d02d5f-565d-419f-99bd-66e92c5ac107" />
-<img width="1919" height="1079" alt="Screenshot 2026-04-18 133654" src="https://github.com/user-attachments/assets/1ba86400-48b1-4afe-8aad-d985bb3edf19" />
 
+
+<img width="1919" height="1079" alt="Screenshot 2026-04-18 133654" src="https://github.com/user-attachments/assets/1ba86400-48b1-4afe-8aad-d985bb3edf19" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-18 133635" src="https://github.com/user-attachments/assets/66d02d5f-565d-419f-99bd-66e92c5ac107" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-18 133614" src="https://github.com/user-attachments/assets/b77a1aaf-a397-4693-8db8-6965ad10540b" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-18 133547" src="https://github.com/user-attachments/assets/a4a71615-9acc-41f6-b5ab-f5708b9531d2" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-18 133517" src="https://github.com/user-attachments/assets/d8014a8f-1959-476f-b30c-7fe123691ba5" />
 
 
 
